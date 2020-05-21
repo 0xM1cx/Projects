@@ -1,0 +1,25 @@
+body {
+     background-color:white;
+}
+
+ li {
+        color: azure;
+ }
+ a {
+                   color: azure;
+ }
+ h1, h2 {
+                   color: aliceblue;
+ }
+ .designdiv {
+      background-color: blue;
+      width: 1350px;
+      height: 500px;
+    
+ }
+ .bodydesign {
+       background-color: red;
+       margin-top: 4px;
+       width: 1350px;
+       height: 500px;
+ }
